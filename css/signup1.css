@@ -1,0 +1,53 @@
+/*mobile Version*/
+body{
+	margin: 0;
+	padding-top: 50px;
+}
+.iconoFlecha{
+	font-size: 6rem;
+  padding-top: 6rem;
+  color: #000;
+}
+.titulo{
+	font-size: 8rem;
+}
+.subtitulo{
+	font-size: 4rem;
+}
+.box1{
+	margin-top:10%;
+}
+.boxInput{
+	width: 90%;
+  margin: 0 auto;
+}
+#botonband{
+	height: 113%;
+  font-size: 5rem;
+}
+#inputTelf{
+	padding: 8%;
+	font-size: 4rem;
+}
+.textTelf{
+	font-size: 4rem;
+	margin-top: 5%;
+}
+.box2{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+.botonNext{
+  display: inline-block;
+  width: 100%;
+  padding: 40px;
+  font-size: 6rem;
+  background-color: #FC1DBD;
+  color: #fff;
+  border: 1px solid;
+  text-align: center;
+}
+#contenedorBotonNext{
+	padding: 0;
+}
