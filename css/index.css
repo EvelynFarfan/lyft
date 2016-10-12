@@ -1,0 +1,42 @@
+/* Versión Mobile */
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(..//img/img-bg.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+}
+section{
+	width: 100%;
+	position: absolute;
+	bottom: 10%;
+}
+.contenedorLogos{
+	margin: 0 auto;
+}
+.logo{
+	width: 80%;
+}
+.boton{
+  color: #fff;
+  border-radius: 20px;
+  padding: 8% 22%;
+  font-size: 300%;
+  box-sizing: content-box;
+}
+.boton:hover{
+	color: #fff;
+	text-decoration: none;
+}
+.botonUno{
+	border: 1px solid #fff;
+	background-color: transparent;
+	
+}
+.botonDos{
+	border: none;
+  background: linear-gradient(to right, #3F1F62 , #FC1DBD);
+}
