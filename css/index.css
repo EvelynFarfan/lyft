@@ -8,17 +8,15 @@ body{
 	background-size: cover;
 	height: 100vh;
 	position: relative;
+	padding-top: 10%;
 }
 section{
 	width: 100%;
 	position: absolute;
 	bottom: 10%;
 }
-.contenedorLogos{
+.contenedorBoton{
 	margin: 0 auto;
-}
-.logo{
-	width: 80%;
 }
 .boton{
   color: #fff;
