@@ -1,21 +1,6 @@
 /*mobile Version*/
 body{
 	margin: 0;
-<<<<<<< HEAD
-	padding-top: 50px;
-}
-.iconoFlecha{
-	font-size: 6rem;
-  padding-top: 6rem;
-  color: #000;
-}
-.titulo{
-	font-size: 8rem;
-}
-.subtitulo{
-	font-size: 4rem;
-=======
->>>>>>> master
 }
 .box1{
 	margin-top:10%;
@@ -24,8 +9,6 @@ body{
 	width: 90%;
   margin: 0 auto;
 }
-<<<<<<< HEAD
-=======
 .dropdown{
 	margin-bottom: 50px;
 }
@@ -33,7 +16,6 @@ body{
 	width: 80px;
 	margin-right: 5px; 
 }
->>>>>>> master
 #botonband{
 	height: 113%;
   font-size: 5rem;
@@ -46,24 +28,6 @@ body{
 	font-size: 4rem;
 	margin-top: 5%;
 }
-<<<<<<< HEAD
-.box2{
-	width: 100%;
-	position: absolute;
-	bottom: 0;
-}
-.botonNext{
-  display: inline-block;
-  width: 100%;
-  padding: 40px;
-  font-size: 6rem;
-  background-color: #FC1DBD;
-  color: #fff;
-  border: 1px solid;
-  text-align: center;
-}
-=======
->>>>>>> master
 #contenedorBotonNext{
 	padding: 0;
 }
