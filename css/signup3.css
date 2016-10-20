@@ -1,0 +1,26 @@
+.ingresoDatos{
+	margin-top: 80px;
+}
+.inputDatos{
+	margin-bottom: 30px;
+}
+.checkbox{
+	font-size: 35px;
+}
+input[type="checkbox"]{
+  width: 35px; /*Desired width*/
+  height: 35px; /*Desired height*/
+  margin-right: 10px;
+  background-color: blue;
+}
+.icon{
+	font-size: 60px;
+	color: gray
+}
+#datos{
+	height: 86px;
+	font-size: 35px;
+}
+.cyan{
+	color: #41aec1;
+}

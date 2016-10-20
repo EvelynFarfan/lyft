@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+}
+.phoneNumber{
+	font-size: 6rem;
+}
+.contentValidar{
+	font-size: 45px;
+	margin: 80px 0 50px 0;
+}
+.inputNumber{
+	width: 100%;
+	border: none;
+	border-bottom: 2px solid gray;
+	text-align: center;
+}
+.botonResend{
+  font-size: 40px;
+  background-color: transparent;
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding: 2% 10%;
+  margin-top: 50px;
+}
+.textoValidarNum{
+	font-size: 35px;
+}

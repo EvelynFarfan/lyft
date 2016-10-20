@@ -1,0 +1,97 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+section{
+	padding-top: 50px;
+}
+.maps{
+	width: 100%;
+ 	height: 400px;
+}
+.img-logo{
+	margin-top: 20px;
+}
+.circleUsuario{
+	background-color: blue;
+	font-size: 60px;
+  padding-top: 33px;
+}
+#img-perfil{
+	width: 70%;
+	display: inline-block;
+	border-radius:150px;
+	border: 5px solid #fff;
+}
+.circleWhite{
+	padding: 25px;
+	font-size: 40px;
+	color: #FC1DBD;
+	border-radius: 100%;
+	background-color: #fff;
+}
+.boton{
+	position: absolute;
+  z-index: 9;
+  left: 115px;
+  bottom: 70px;
+}
+.botonMap{
+  text-align: center;
+  width: 100%;
+  font-size: 50px;
+  border-radius: 45px;
+  padding: 20px 0;
+  display: inline-block;
+  background-color: #FC1DBD;
+  color: #fff;
+}
+.botonMap:hover{
+	color: #fff;
+	text-decoration: none;
+}
+.zonaMenu {
+	width:500px;
+	height:100%;
+	background-color: #fff;
+	position: absolute;
+	left:-500px;
+	transition: left 1s;
+	z-index: 10;
+}
+.mostrarMenu {
+	left: 0px;
+}
+.imagenPerfil{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  margin-top: 70px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+.nombre{
+	font-size: 60px;
+}
+.enlaceNombre{
+	display: inline-block;
+	font-size: 40px;
+}
+.iconMenu{
+	font-size: 50px;
+	font-family: Arial;
+}
+
+/*@media (min-width:836px) {
+	.zonaMenu,
+	.menu {
+		display: none;
+	}
+
+	nav {
+		display: block;
+	}
+}*/
