@@ -12,8 +12,11 @@ $(document).ready(function(){
 	});
 });
 
+
+
 function validarDatos(){
 	var nombre = $(".nombre").val();
+	localStorage.setItem("nombrePerfil", nombre);
 	var apellido = $(".apellido").val();
 	var email = $(".email").val();
 	var emailRegex=/^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
