@@ -27,11 +27,11 @@ section{
 	border: 5px solid #fff;
 }
 .circleWhite{
-	padding: 25px;
-	font-size: 40px;
-	color: #FC1DBD;
-	border-radius: 100%;
-	background-color: #fff;
+	padding: 60px;
+    font-size: 80px;
+    color: #FC1DBD;
+    border-radius: 100%;
+    background-color: #fff
 }
 .boton{
 	position: absolute;
@@ -80,9 +80,21 @@ section{
 	display: inline-block;
 	font-size: 40px;
 }
-.iconMenu{
+#iconMenu{
 	font-size: 50px;
+	color: #ccc;
+}
+.iconMenu{
 	font-family: Arial;
+	font-size: 50px;
+	color: #bababa;
+}
+.iconoEnlace{
+	margin: 40px 0 40px 65px;	
+}
+.iconMenu:hover{
+	color: #FC1DBD;
+	text-decoration: none;
 }
 
 /*@media (min-width:836px) {
