@@ -6,4 +6,8 @@ $(".botonPerfil").on("click", function(){
         toggleClass para alternar una clase
     */
     $(".zonaMenu").toggleClass("mostrarMenu"); 
-})
+});
+
+// $("#mapa").on("click",function(){
+// 	$(".zonaMenu").removeClass("mostrarMenu");
+// })
