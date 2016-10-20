@@ -8,6 +8,6 @@ $(".botonPerfil").on("click", function(){
     $(".zonaMenu").toggleClass("mostrarMenu"); 
 });
 
-$("#mapa").on("click", function(){
-    $(".zonaMenu").removeClass("mostrarMenu"); 
-});
+// $("#mapa").on("click",function(){
+// 	$(".zonaMenu").removeClass("mostrarMenu");
+// })

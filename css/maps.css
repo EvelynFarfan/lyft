@@ -74,19 +74,19 @@ section{
   margin-bottom: 50px;
 }
 .nombre{
-	font-size: 60px;
+	font-size: 50px;
 }
 .enlaceNombre{
 	display: inline-block;
 	font-size: 40px;
 }
 #iconMenu{
-	font-size: 50px;
+	font-size: 40px;
 	color: #ccc;
 }
 .iconMenu{
 	font-family: Arial;
-	font-size: 50px;
+	font-size: 40px;
 	color: #bababa;
 }
 .iconoEnlace{
