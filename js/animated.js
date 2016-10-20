@@ -1,3 +1,6 @@
+var nombrePerfil = localStorage.getItem("nombrePerfil");
+	$(".nombre").append(nombrePerfil);
+
 $(".botonPerfil").on("click", function(){
     /*Esto se va a ejecutar cuando alguien
         haga clic sobre el icono del menu
